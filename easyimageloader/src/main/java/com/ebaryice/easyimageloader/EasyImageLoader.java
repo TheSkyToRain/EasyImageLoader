@@ -1,4 +1,4 @@
-package com.ebaryice.easyimageloader.util;
+package com.ebaryice.easyimageloader;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -13,7 +13,6 @@ import android.util.Log;
 import android.util.LruCache;
 import android.widget.ImageView;
 
-import com.ebaryice.easyimageloader.R;
 import com.jakewharton.disklrucache.DiskLruCache;
 
 import java.io.BufferedInputStream;

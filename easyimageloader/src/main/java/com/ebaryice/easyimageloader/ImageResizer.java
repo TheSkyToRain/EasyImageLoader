@@ -1,4 +1,4 @@
-package com.ebaryice.easyimageloader.util;
+package com.ebaryice.easyimageloader;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;

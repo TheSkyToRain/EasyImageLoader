@@ -12,10 +12,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.ebaryice.easyimageloader.util.EasyImageLoader;
-import com.ebaryice.easyimageloader.util.ImageResizer;
-import com.ebaryice.easyimageloader.util.MyUtils;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
